@@ -65,6 +65,7 @@ Program ini dirancang untuk membantu pengelola toko sembako dalam melacak invent
   - Menginisialisasi objek `Proses` bernama `proses`.
   - Memanggil metode `input_product` dari objek `proses` untuk memungkinkan pengguna menambah produk.
   - Memanggil metode `show_products` dari objek `proses` untuk menampilkan daftar produk yang telah ditambahkan.
+  - ![photo](https://github.com/Moviezal/UAS-1/blob/e354241358b98acbb2534aa728d29e5a51e84ddb/Output.jpeg)
 
 **6. Kesimpulan**
 
